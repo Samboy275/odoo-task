@@ -132,6 +132,9 @@ pip install -r requirements.txt
 
 ## 📘 Useful Resources
 
+### Odoo Courses:
+ - [Odoo Development Tutorial](https://www.youtube.com/watch?v=aMDwueq9_sY&list=PLeJtXzTubzj8jr-dV7luM1G_xfUanwbKh)
+
 ### Odoo Documentation
 - [Odoo Framework Developer Guide](https://www.odoo.com/documentation/19.0/developer/tutorials/server_framework_101.html)
 - [Odoo ORM Documentation](https://www.odoo.com/documentation/19.0/developer/reference/backend/orm.html#models)
