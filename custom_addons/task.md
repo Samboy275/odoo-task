@@ -35,6 +35,10 @@ school/
 
 ### 1️⃣ Create the Models
 
+### Before starting switch to task-implementation branch
+```
+git checkout task-implementation
+```
 #### **Teacher (`school.teacher`)**
 - `name` — Char (required)
 - `email` — Char
