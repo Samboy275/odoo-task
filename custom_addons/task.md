@@ -8,6 +8,7 @@ Build a simple Odoo module with:
 - XML views for each model
 
 This task is for beginners with basic Python and database knowledge.
+All code must be only pushed to the task-implementation branch
 
 ---
 
